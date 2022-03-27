@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express-typescript-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinoFlores/nodejs-express-typescript-jest.git"
+  },
+  "keywords": [],
+  "author": "Jose Aburto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PinoFlores/nodejs-express-typescript-jest/issues"
+  },
+  "homepage": "https://github.com/PinoFlores/nodejs-express-typescript-jest#readme"
+}
